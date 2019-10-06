@@ -30,7 +30,7 @@ twitter_username: SushanthRKashy1
 github_username:  ethereal-keys
 
 # Build settings
-theme: minima
+theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
 
