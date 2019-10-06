@@ -1,7 +1,7 @@
 ---
 layout: page
 title: projects 
-permalink: /projects/
+permalink: /about/
 ---
 
 I've changes stuff here, supposedly a new page.
